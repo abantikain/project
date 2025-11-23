@@ -85,10 +85,13 @@ I am a B.Tech CSE (AI) student on a fast-track journey to master Machine Learnin
 * **Email:** [b.abantika.tiu@gmail.com](mailto:b.abantika.tiu@gmail.com)
 
 ---
+ 
 
-## ⭐ GitHub Stats (To Add Later)
+<img width="1121" height="506" alt="Screenshot 2025-11-23 193522" src="https://github.com/user-attachments/assets/a4e87095-85d8-4b36-8834-36179cd67175" />
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-```
+---
+
+<img width="937" height="244" alt="Screenshot 2025-11-23 193537" src="https://github.com/user-attachments/assets/b09a9349-088a-41fc-a287-9cd86434658d" />
+
+Updating everyday...
+
